@@ -16,9 +16,8 @@ Pandas is a library written for the Python programming language for data manipul
 Seaborn is a Python data visualization library based on matplotlib that provides a high-level interface.
 
 Codes for the lab - https://github.com/jeewaka-p/SE4050-DL-Lecture02
-Online store customer dataset - https://www.kaggle.com/datasets/mountboy/online-store-customer-data?resource=download
-Au nano particle dataset (google drive) - 
-https://drive.google.com/drive/folders/1_6-GpmILQB4-8rMf5oW604pP1Nx54dYx?usp=sharing
+Online store customer dataset - https://www.kaggle.com/datasets/mountboy/online-store-customer-data?resource=download 
+Au nano particle dataset (google drive) - https://drive.google.com/drive/folders/1_6-GpmILQB4-8rMf5oW604pP1Nx54dYx?usp=sharing
 For this lab, you need to understand the content of the Jupyter notebooks given in the above github repository and then 
 run the codes as well. We suggest you to use google colab to run the notebooks. Each notebook contains a link to a colab 
 implementation. Make a local copy of the notebook in your google drive and run the codes.  Dataset needed for the 
